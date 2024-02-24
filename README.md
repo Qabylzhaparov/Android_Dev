@@ -1,5 +1,1 @@
-![photo_4_2024-02-24_22-26-26](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/4fdf7995-5c8e-4adb-a1e0-e95723321532)
-![photo_1_2024-02-24_22-26-26](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/eb39b840-e9b5-4b0f-a8de-38a128736a0a)
-![photo_5_2024-02-24_22-26-26](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/218d09dc-84c1-4413-b555-e6b8116d1a1c)
-![photo_2_2024-02-24_22-26-26](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/ac1e732a-100c-4b39-b9c7-7b9b453a839e)
-![photo_3_2024-02-24_22-26-26](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/9ecd63c4-06dc-4317-9f29-3723010337b4)
+![photo_1](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/d4619e58-806a-4f38-8531-e82b9fafc7c4) ![photo_2](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/acfbdd4d-5ca3-419d-a532-509cadec67d2) ![photo_3](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/310921fc-c54d-4378-8b15-ebb178719502) ![photo_4](https://github.com/Qabylzhaparov/Android_Dev/assets/123008896/97cad734-b222-4a9c-99a5-5f0bf39dc912)
